@@ -1,0 +1,5 @@
+sudo arp-scan --interface=enp0s3 --localnet
+
+192.168.0.105
+192.168.0.108
+victim:192.168.0.111
