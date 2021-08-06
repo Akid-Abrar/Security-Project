@@ -5,4 +5,4 @@ To execute an attack:
 4.run bash script.sh to execute the attack
 5.Each action in ping.c is commented properly there
 
-I used WireShark to monitor the packets
+I used WireShark to monitor the packets in seedUbuntu
